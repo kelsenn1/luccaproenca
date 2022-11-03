@@ -1,5 +1,5 @@
 ### Olá 👋, eu sou o [Lucca Proença](https://lukealter.com.br/)
-_Comecei meus estudos como autodidata em 2013 e trabalho com desenvolvimento Web desde 2015_
+_Comecei meus estudos como autodidata em 2013 e trabalho com desenvolvimento Web desde 2021
 
 ---
 
