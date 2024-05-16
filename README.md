@@ -1,5 +1,5 @@
 ### Olá 👋, eu sou o [Kelsen]
-_Comecei meus estudos como autodidata em 2013 e trabalho com desenvolvimento Web desde 2021
+_Comecei meus estudos como autodidata em 2019 e trabalho com desenvolvimento Web desde 2021
 
 ---
 
